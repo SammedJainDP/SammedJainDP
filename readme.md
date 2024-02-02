@@ -35,5 +35,5 @@ Developed test suites in micropython for AES Encryption/Decription code.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sammedjaindp)
-- Email: [Your Email Address](sammeddp@gmail.com)
+- LinkedIn:www.linkedin.com/in/sammedjaindp
+- Email:sammeddp@gmail.com
