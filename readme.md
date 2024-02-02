@@ -1,6 +1,6 @@
-# Hi there 👋,Welcome to the museum
+# Hi there 👋,Welcome to the museum of all master piece
 
-I'm [Sammed Jain D P], a passionate [Computer Science graduate] from [UMASS Boston].
+I'm Sammed Jain D P, a passionate Computer Science graduate from UMASS Boston.
 
 ## 🔧 Skills & Technologies
 
