@@ -1,12 +1,23 @@
-# Hi there 👋,Welcome to the museum of all master piece
-
+# Hi there 👋,Welcome to the museum
 I'm Sammed Jain D P, a passionate Computer Science graduate from UMASS Boston.
 
 ## 🔧 Skills & Technologies
 
-- [Skill/Technology 1]
-- [Skill/Technology 2]
-- ...
+- Java
+- C
+- C++
+- Data Structures
+- Algorithms
+- SQL
+- RDBMS
+- DBMS
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+
+
 
 ## 🚀 Projects
 
