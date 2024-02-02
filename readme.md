@@ -25,6 +25,7 @@ I'm Sammed Jain D P, a passionate Computer Science graduate from UMASS Boston.
 A web application to bridge the gap between the one who wants to help and the one who needs help.
 
 [Website](https://sammedjaindp.github.io/VolunteerWaveCode/) 
+
 [GitHub Repository](https://github.com/SammedJainDP/VolunteerWaveCode.git)
 
 ### AES Encryption/Decription Testing
