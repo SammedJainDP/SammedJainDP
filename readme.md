@@ -6,6 +6,7 @@ I'm Sammed Jain D P, a passionate Computer Science graduate from UMASS Boston.
 - Java
 - C
 - C++
+- Python
 - Data Structures
 - Algorithms
 - SQL
@@ -21,12 +22,10 @@ I'm Sammed Jain D P, a passionate Computer Science graduate from UMASS Boston.
 
 ## 🚀 Projects
 
-### [Project Name 1]
-Description of the project.
+### Volunteer wave
+A web application to bridge the gap between the one who wants to help and the one who needs help.
 
-![Project 1 Screenshot](link/to/screenshot.png)
-
-[Live Demo](link/to/demo) | [GitHub Repository](link/to/repository)
+Website(link/to/demo) | [GitHub Repository](link/to/repository)
 
 ### [Project Name 2]
 Description of the project.
