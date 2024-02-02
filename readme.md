@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋,Welcome to the museum
 
-I'm [Your Name], a passionate [your field] from [your location].
+I'm [Sammed Jain D P], a passionate [Computer Science graduate] from [UMASS Boston].
 
 ## 🔧 Skills & Technologies
 
